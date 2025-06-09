@@ -1,4 +1,4 @@
-# indian-right-winf-propaganda-detection
+# indian-right-wing-propaganda-detection
 <h2>📚 Research Project</h2>
 
 <p>This repository is part of a <strong>research project</strong> developed by:</p>

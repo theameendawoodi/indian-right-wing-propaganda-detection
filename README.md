@@ -1,7 +1,7 @@
 # indian-right-winf-propaganda-detection
 <h2>📚 Research Project</h2>
 
-<p>This repository is part of an ongoing <strong>research project</strong> developed by:</p>
+<p>This repository is part of a <strong>research project</strong> developed by:</p>
 
 <ul>
   <li><a href="mailto:marahmand525@protonmail.com">marahmand525@protonmail.com</a></li>

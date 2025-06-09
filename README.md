@@ -8,9 +8,6 @@
   <li><a href="mailto:fazalmohammed813@gmail.com">fazalmohammed813@gmail.com</a></li>
 </ul>
 
-<p>🔗 <strong>Dataset:</strong> <a href="YOUR_DATASET_LINK_HERE" target="_blank">Click here to access the dataset</a></p>
-<p>📄 <strong>Research Paper:</strong> <a href="YOUR_PAPER_LINK_HERE" target="_blank">Read the full paper here</a></p>
-
 <hr>
 
 <p>Feel free to explore, use, and experiment with the code in this repository.</p>
